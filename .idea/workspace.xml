@@ -9,15 +9,15 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="Taller 2" />
+              <option name="name" value="Taller-2-Funciones-de-alto-orden" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
           <value>
             <list>
               <ExternalProjectPojo>
-                <option name="name" value="Taller 2-root" />
-                <option name="path" value="E:\Ingenieria U\Funcional y concurrente\Taller 2" />
+                <option name="name" value="file:$PROJECT_DIR$/.scala-build/?id=Taller-2-Funciones-de-alto-orden_b3481ba15c" />
+                <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -25,8 +25,24 @@
       </map>
     </option>
   </component>
+  <component name="BspTargetCanCompile">
+    <option name="compilableTargets">
+      <list>
+        <option value="file:$PROJECT_DIR$/.scala-build/?id=Taller-2-Funciones-de-alto-orden_b3481ba15c-test" />
+        <option value="file:$PROJECT_DIR$/.scala-build/?id=Taller-2-Funciones-de-alto-orden_b3481ba15c" />
+      </list>
+    </option>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa464524-8bd1-4bab-baa8-33557464b7c3" name="Changes" comment="" />
+    <list default="true" id="fa464524-8bd1-4bab-baa8-33557464b7c3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/bsp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/bsp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Derivacion/Derivacion.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Derivacion/Derivacion.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/Pruebas.sc" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/Pruebas.sc" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,15 +72,40 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "Scala REPL.Unnamed.executor": "Run",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "Rebasing main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/Ingenieria U/Funcional y concurrente/Taller 2",
+    "last_opened_file_path": "/home/EmaLeal/Documentos/funcional/Taller-2-Funciones-de-alto-orden",
     "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="ScalaScriptConsoleRunConfiguration" factoryName="Scala Console" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Taller-2-Funciones-de-alto-orden_b3481ba15c" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="defaultTargetName" />
+      <option name="envFilePaths">
+        <list />
+      </option>
+      <option name="environmentVariables">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="myConsoleArgs" value="-usejavacp" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

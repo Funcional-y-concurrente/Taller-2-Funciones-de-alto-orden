@@ -4,10 +4,11 @@
     <option name="linkedExternalProjectsSettings">
       <BspProjectSettings>
         <option name="bspConfigGenerated" value="true" />
+        <option name="connectionFileHash" value="1604908550" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
-            <option value="E:\Ingenieria U\Funcional y concurrente\Taller 2" />
+            <option value="$PROJECT_DIR$" />
           </set>
         </option>
         <option name="preImportConfig" value="NoPreImport" />
